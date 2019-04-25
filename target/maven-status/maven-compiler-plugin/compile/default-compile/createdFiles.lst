@@ -1,0 +1,2 @@
+com\github\kafka\mqtt\bridge\MqttConsumerToKafkaProducer.class
+com\github\kafka\mqtt\bridge\KafkaConsumerToMqttProducer.class
